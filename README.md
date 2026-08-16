@@ -53,3 +53,8 @@ I enjoy creating efficient solutions, learning modern development practices, and
         * ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leveloncomplete67\&theme=tokyo-night)
        
         * 
+
+
+<!-- update: A -->
+
+> 💡 *IT Quote:* "_Experience is the name everyone gives to their mistakes. – Oscar Wilde_"
