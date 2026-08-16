@@ -55,6 +55,6 @@ I enjoy creating efficient solutions, learning modern development practices, and
         * 
 
 
-<!-- update: B -->
+<!-- update: A -->
 
-> 💡 *IT Quote:* "_Code is like humor. When you have to explain it, it’s bad. – Cory House_"
+> 💡 *IT Quote:* "_Experience is the name everyone gives to their mistakes. – Oscar Wilde_"
